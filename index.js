@@ -35,6 +35,6 @@ function checker() {
  function dblcheck() {
      if ( i == false ) {
          let msg = "invalid username or password.i didn't make any acc with that"
-         incorrect.innerhtml = msg
+         incorrect.innerHTML = msg
      }
  }
